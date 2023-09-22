@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CE08A276-C548-4AE7-8EFA-4B3D601F4A72}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/ViewModel/StudentViewModel.cs">
+    <Files>
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/MainPage.xaml.cs" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/MainPage.xaml" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/App.xaml.cs" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/ViewModel/StudentViewModel.cs" Line="4" Column="13" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/View/Page1.xaml" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/View/Page1.xaml.cs" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/Model/Student.cs" Line="1" Column="1" />
+      <File FileName="Module2_INotifyPropertyChanged/Module2_INotifyPropertyChanged/App.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module2_INotifyPropertyChanged" expanded="True">
+            <Node name="Module2_INotifyPropertyChanged">
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="StudentViewModel.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Module2__INotifyPropertyChanged.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Module2__INotifyPropertyChanged.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Module2_INotifyPropertyChanged.View.Page1"
+    xmlns:local="clr-namespace:Module2_INotifyPropertyChanged.ViewModel">
+    
+    
+    
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label Text="Subject Code" />
+            <Entry Text="{Binding SubjectCodeEntry}"/>
+
+            <Label Text="Subject Title" />
+            <Entry Text="{Binding SubjectTitleEntry}"/>
+
+            <Label Text="Subject Unit" />
+            <Entry Text="{Binding SubjectUnitEntry}">
+                <Entry.Behaviors>
+                    <local:NumericValidationBehavior/>
+                </Entry.Behaviors>
+            </Entry>
+
+            <Button Command="{Binding SubmitEntry}" Text="Submit"/>
+            <Button Command="{Binding ClearEntry}" Text="Clear"/>
+
+            <Label Text="{Binding SubjectCodeDisplay}"/>
+            <Label Text="{Binding SubjectTitleDisplay}"/>
+            <Label Text="{Binding SubjectUnitDisplay}"/>
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
+

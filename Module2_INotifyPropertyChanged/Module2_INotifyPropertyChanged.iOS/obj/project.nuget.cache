@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HXZHZgTCVC1vuapR+JJFNh5rQ0x2gJ+Nlp6YDN7kbrSgCyWC1VSM1KkCugoGsWidy7DH0tZ1DwtseY9xgL9uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Module02_Activity02-main\\Module2_INotifyPropertyChanged\\Module2_INotifyPropertyChanged.iOS\\Module2_INotifyPropertyChanged.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
